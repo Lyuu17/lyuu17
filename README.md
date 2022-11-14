@@ -12,6 +12,9 @@ Pronouns : she/her
  - Programación (JAVA): [Java Wordle](https://github.com/Lyuu17/java_wordle)
  - Base de Datos (ORACLE): [Ejercicios BBDD Oracle](https://github.com/Lyuu17/sql_oracle_1daw_ejercicios)
 
+## 👩‍🎓 Projects/repos I've worked in 2DAW
+ - JavaScript: [Breaking Bad API](https://github.com/Lyuu17/breakingbad_vueapi.git)
+
 ## ⌚ Repos I've worked in my spare time
  - Android: 
    - Moto G4/G4 Plus (msm8952): [Device](https://github.com/Lyuu17/android_device_motorola_athene), 
