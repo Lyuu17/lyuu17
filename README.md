@@ -11,7 +11,6 @@ Pronouns : she/her
    - [Examen 2Eval](https://github.com/Lyuu17/java_1daw_programacion_examen2eval)
    - [Examen 3Eval](https://github.com/Lyuu17/java_1daw_programacion_examen3eval)
    - [Java Wordle](https://github.com/Lyuu17/java_wordle)
- - Oracle SQL Database: [Ejercicios BBDD Oracle](https://github.com/Lyuu17/sql_oracle_1daw_ejercicios)
 
 ## 👩‍🎓 Projects/repos I've worked in 2DAW
  - JavaScript
