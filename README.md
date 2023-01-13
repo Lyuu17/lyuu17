@@ -29,7 +29,7 @@ Pronouns : she/her
  - Vice City Multiplayer
    - [SimpleINI](https://github.com/Lyuu17/vcmp_simpleini)
  - Misc
-   - [PluginSDK] https://github.com/Lyuu17/plugin_sdk
+   - [PluginSDK](https://github.com/Lyuu17/plugin_sdk)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuu17&layout=compact&hide=smali,roff&exclude_repo=android_kernel_motorola_msm8952,android_kernel_bq_vegetafhd)](https://github.com/anuraghazra/github-readme-stats)
 
