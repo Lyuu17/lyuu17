@@ -17,10 +17,16 @@ Pronouns : she/her
    - [Breaking Bad API](https://github.com/Lyuu17/breakingbad_vueapi.git)
 
 ## ⌚ Repos I've worked in my spare time
- - Android: 
+ - Android development: 
    - Moto G4/G4 Plus (msm8952): [Device](https://github.com/Lyuu17/android_device_motorola_athene), 
                       [Kernel](https://github.com/Lyuu17/android_kernel_motorola_msm8952),
                       [Vendor](https://github.com/Lyuu17/android_vendor_motorola_athene)
+ - HTML/CSS/JS
+   - (Ionic Capacitor) [RickNMortyAPIApp](https://github.com/Lyuu17/RickNMortyAPIApp)
+   - (Tauri; Rust) [OnlineFixLauncher](https://github.com/Lyuu17/OnlineFixLauncher.git)
+ - C#
+   - [ServerBrowserApplication](https://github.com/Lyuu17/ServerBrowserApplication.git)
+   - [PdxModManager](https://github.com/Lyuu17/PdxModManager.git)
  - GTA: Connected
    - [INI Module](https://github.com/Lyuu17/gtac_ini)
    - [SQLite Module](https://github.com/Lyuu17/gtac_sqlite)
