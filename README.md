@@ -16,6 +16,9 @@ Pronouns : she/her
  - JavaScript
    - [Breaking Bad API](https://github.com/Lyuu17/breakingbad_vueapi.git)
    - [domoticajs](https://github.com/Lyuu17/domoticajs)
+ - Final Degree Project (TFG)
+   - [bookit-client](https://github.com/Lyuu17/bookit-client.git)
+   - [bookit-server](https://github.com/Lyuu17/bookit-server.git)
 
 ## ⌚ Repos I've worked in my spare time
  - [UniverseEngine](https://github.com/UniverseEngine)
