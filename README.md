@@ -11,8 +11,8 @@ Pronouns : she/her
  - [Breaking Bad API](https://github.com/Lyuu17/breakingbad_vueapi) (Vue.js, Tailwindcss)
  - [domoticajs](https://github.com/Lyuu17/domoticajs) (Vue.js, Tailwindcss, Pinia)
  - Book It. Final Degree Project (TFG).
-   - [bookit-client](https://github.com/Lyuu17/bookit-client)
-   - [bookit-server](https://github.com/Lyuu17/bookit-server)
+   - [bookit-client](https://github.com/Lyuu17/bookit-client) (Vue.js, Tailwindcss, Axios)
+   - [bookit-server](https://github.com/Lyuu17/bookit-server) (NestJS, Mongoose)
  - [ServerBrowserApplicationWX](https://github.com/UniverseEngine/ServerBrowserApplicationWX) (C++, WxWidgets)
  - [SQLModule](https://github.com/UniverseEngine/SQLModule) (C++, C)
  - [RickNMortyAPIApp](https://github.com/Lyuu17/RickNMortyAPIApp) (Ionic, Vue.js, Tailwindcss)
