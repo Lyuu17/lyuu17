@@ -1,9 +1,4 @@
-### Hi there, I'm lucx 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuu17&show_icons=true&theme=radical)
-
-## 📝 Bio
-Pronouns : she/her
+![Hello there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl6Y2h6Znl4ODBxZ2J3eDczZjA1bzc3dTI2NDV6Ym5veHdvcW92OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 ## ⌚ Repos, projects worth of mention
  - [Proyecto Integrador](https://github.com/Lyuu17/java_proyecto_integrador) (Java, Java Swing, Oracle SQL)
@@ -26,7 +21,5 @@ Pronouns : she/her
    - [INI Module](https://github.com/Lyuu17/gtac_ini) (C++)
    - [SQLite Module](https://github.com/Lyuu17/gtac_sqlite) (C++)
    - [MySQL Module](https://github.com/Lyuu17/gtac_mysql) (C++)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuu17&layout=compact&hide=smali,roff&exclude_repo=android_kernel_motorola_msm8952,android_kernel_bq_vegetafhd)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### 💾 EOF
